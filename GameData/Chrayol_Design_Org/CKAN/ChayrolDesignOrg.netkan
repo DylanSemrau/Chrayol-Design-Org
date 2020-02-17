@@ -1,0 +1,28 @@
+{
+  "spec_version"        : "v1.4",
+  "identifier"          : "Chayrol-Design-Org",
+  "$kref"               : "#/ckan/github/DylanSemrau/Chayrol-Design-Org.",
+  "abstract"            : "New solar panels in a variety of sizes and types",
+  "author"              : "DylanSemrau",
+  "license"             : "CC-BY-NC-SA-4.0",
+  "$vref"               : "#/ckan/ksp-avc",
+  "resources": {
+    "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189111-18-v10-chrayol-design-org-isro-mod/",
+    "repository": "https://github.com/DylanSemrau/Chrayol-Design-Org."
+  },
+  "depends": [
+      { "name" : "ModuleManager" }
+  ],
+  "suggests": [
+      { "name" : "JNSQ" },
+      { "name" : "RealPlume-StockConfigs" },
+      { "name" : "Bluedog_DB" },
+      { "name" : "ModularLaunchPads" }
+  ],
+  "install" : [
+      { 
+      "file" : "ChrayolDesignOrg_v1.0\GameData\Chrayol_Design_Org",
+       "install_to" : "GameData"
+       }
+  ]
+}
