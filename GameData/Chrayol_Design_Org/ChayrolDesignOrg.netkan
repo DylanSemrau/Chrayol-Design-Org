@@ -1,8 +1,8 @@
 {
   "spec_version"        : "v1.4",
-  "identifier"          : "Chayrol-Design-Org",
+  "identifier"          : "ChayrolDesignOrg",
   "$kref"               : "#/ckan/github/DylanSemrau/Chayrol-Design-Org.",
-  "abstract"            : " This mod aims to add a number of different ISRO rockets and spacecraft to the game. Eventually the plan is to add SLV, GSLV MK1-3, RLV, along with a couple of probes (Ex. Chandrayaan, Mangalyaan etc).",
+  "abstract"            : "This mod aims to add a number of different ISRO rockets and spacecraft to the game. Eventually the plan is to add SLV, GSLV MK1-3, RLV, along with a couple of probes (Ex. Chandrayaan, Mangalyaan etc).",
   "author"              : "DylanSemrau",
   "license"             : "CC-BY-NC-SA-4.0",
   "$vref"               : "#/ckan/ksp-avc",
@@ -16,12 +16,12 @@
   "suggests": [
       { "name" : "JNSQ" },
       { "name" : "RealPlume-StockConfigs" },
-      { "name" : "Bluedog_DB" },
+      { "name" : "BluedogDB" },
       { "name" : "ModularLaunchPads" }
   ],
   "install" : [
       { 
-      "file" : "ChrayolDesignOrg_v1.0\GameData\Chrayol_Design_Org",
+      "file" : "GameData/Chrayol_Design_Org",
        "install_to" : "GameData"
        }
   ]
