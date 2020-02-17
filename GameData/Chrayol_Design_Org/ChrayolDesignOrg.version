@@ -1,0 +1,11 @@
+{
+  "NAME"     : "Chrayol Design Org.",
+  "DOWNLOAD" : "https://github.com/DylanSemrau/Chrayol-Design-Org./releases",
+  "URL"      : "",
+  "GITHUB" : {
+    "USERNAME"   : "DylanSemrau",
+    "REPOSITORY" : "Chrayol-Design-Org."
+  },
+  "VERSION" : "1.0",
+  "KSP_VERSION" : "1.8.1"
+}
