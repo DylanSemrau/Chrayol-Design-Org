@@ -20,9 +20,13 @@
       { "name" : "ModularLaunchPads" }
   ],
   "install" : [
-      { 
-      "file" : "GameData/Chrayol_Design_Org",
-       "install_to" : "GameData"
-       }
+      {
+        "file" : "GameData/Chrayol_Design_Org",
+        "install_to" : "GameData"
+      },
+      {
+        "file" : "GameData/B9PartSwitch",
+        "install_to" : "GameData"
+      }
   ]
 }
