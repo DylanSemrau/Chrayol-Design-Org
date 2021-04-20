@@ -1,10 +1,10 @@
 {
   "NAME"     : "Chrayol Design Org.",
-  "DOWNLOAD" : "https://github.com/DylanSemrau/Chrayol-Design-Org./releases",
-  "URL"      : "https://github.com/DylanSemrau/Chrayol-Design-Org./blob/master/GameData/Chrayol_Design_Org/ChrayolDesignOrg.version",
+  "DOWNLOAD" : "https://github.com/DylanSemrau/Chrayol-Design-Org/releases",
+  "URL"      : "https://github.com/DylanSemrau/Chrayol-Design-Org/blob/master/GameData/Chrayol_Design_Org/ChrayolDesignOrg.version",
   "GITHUB" : {
     "USERNAME"   : "DylanSemrau",
-    "REPOSITORY" : "Chrayol-Design-Org."
+    "REPOSITORY" : "Chrayol-Design-Org"
   },
   "VERSION" : "1.0",
   "KSP_VERSION" : "1.8.1"
